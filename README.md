@@ -46,7 +46,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 </head>
 <body>
   <h1>Fundamentals of Web Application Development Frameworks</h1>
-  <h1>Network</h1>
+  <h1>1.Network</h1>
   <h1>2.Encoding</h1>
   <h1>3.Transmission</h1>
   <h1>4.Quality</h1>
