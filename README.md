@@ -55,7 +55,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 </html>
 ```
 ## OUTPUT:
-![Screenshot 2025-03-05 112749](https://github.com/user-attachments/assets/4b973f1d-0747-4b41-896d-3145f64498b7)
+![Screenshot 2025-03-05 113144](https://github.com/user-attachments/assets/3311e30f-9d9c-4a67-a50b-d12899c3ecdb)
 
 
 ## RESULT:
