@@ -36,7 +36,6 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-
 ```
 <!DOCTYPE html>
 <html lang="en">
